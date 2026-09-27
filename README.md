@@ -1,3 +1,5 @@
+Youtube: https://youtu.be/l7iAX4bRHMo
+
 # Emberbound - The Obsidian Duel
 
 A small 2.5D Unity dragon duel made for the supplied Dexhigh technical assessment. The blue dragon is the player; Cinder is a distance-aware AI opponent. Built for **Unity 6000.3.6f1**, Built-in Render Pipeline, Windows x64, legacy Input Manager.
