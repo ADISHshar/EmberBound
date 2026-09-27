@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85c225ee4164dc8479b1e51de53ed7c4, type: 3}
+  m_Name: DuelAudioSettings
+  m_EditorClassIdentifier: Assembly-CSharp::Emberbound.DuelAudioSettings
+  Fire: {fileID: 8300000, guid: 3ada255bfdfae93469f223433cbdf29d, type: 3}
+  Tail: {fileID: 8300000, guid: 85979efde5c5a9349af89961b8abb169, type: 3}
+  Flight: {fileID: 8300000, guid: 64b54ba7078b9ee46bb6f83f446e2724, type: 3}
+  Music: {fileID: 8300000, guid: af3a7d4c1e6882b4ba7152ab6c9a2253, type: 3}
+  EffectsVolume: 0.5
+  MusicVolume: 0.18

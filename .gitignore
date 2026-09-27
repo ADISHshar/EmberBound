@@ -1,0 +1,12 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]in/
+[Ll]ogs/
+UserSettings/
+Builds/
+tmp/
+output/
+*.csproj
+*.sln
+!Tests/*.csproj

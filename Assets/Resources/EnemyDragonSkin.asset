@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdfce3d9915c593da3c08e023c6e4067, type: 3}
+  m_Name: EnemyDragonSkin
+  m_EditorClassIdentifier: Assembly-CSharp::Emberbound.DragonSkin
+  Prefab: {fileID: 139696, guid: eb58e8f2831a51f45a44a261e6710cdd, type: 3}
+  Scale: 0.27403077
+  Offset: {x: 0, y: 0.5376456, z: 0}
+  Rotation: {x: 0, y: 0, z: 0}
+  Idle: {fileID: 7400000, guid: f862cf09513abb14cbba0e94da9a410f, type: 3}
+  Walk: {fileID: 7400000, guid: 9f159f6b3339be1409c27761d89f18bd, type: 3}
+  Fire: {fileID: 7400000, guid: f3c4af16992f14c43a050675b9be2f68, type: 3}
+  Tail: {fileID: 7400000, guid: 1420a40f7b2cd1341944b103718427f4, type: 3}
+  Flight: {fileID: 7400000, guid: 5d9e1f89045bd0946b0908d6f9d29050, type: 3}
+  Death: {fileID: 7400000, guid: 347d2e064d3a3f946b17655dcc998386, type: 3}
