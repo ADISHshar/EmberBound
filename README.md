@@ -62,5 +62,3 @@ This project was created by Adish Sharma as part of the technical assessment
 This repository is provided solely for the purpose of reviewing and evaluating my technical assessment and development skills.
 The source code and project materials may not be copied, redistributed, published, or used for commercial purposes without my explicit permission.
 © 2026 Adish Sharma. All rights reserved.
-
-This project shall only be used for evaluation 
